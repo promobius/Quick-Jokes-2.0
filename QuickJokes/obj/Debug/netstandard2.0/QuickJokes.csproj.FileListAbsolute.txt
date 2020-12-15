@@ -1,0 +1,14 @@
+D:\repos\QuickJokes\QuickJokes\bin\Debug\netstandard2.0\QuickJokes.deps.json
+D:\repos\QuickJokes\QuickJokes\bin\Debug\netstandard2.0\QuickJokes.dll
+D:\repos\QuickJokes\QuickJokes\bin\Debug\netstandard2.0\ref\QuickJokes.dll
+D:\repos\QuickJokes\QuickJokes\bin\Debug\netstandard2.0\QuickJokes.pdb
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\Stylesheet.css.g.cs
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\QuickJokes.AssemblyInfoInputs.cache
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\QuickJokes.AssemblyInfo.cs
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\QuickJokes.csproj.CoreCompileInputs.cache
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\QuickJokes.dll
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\ref\QuickJokes.dll
+D:\repos\QuickJokes\QuickJokes\obj\Debug\netstandard2.0\QuickJokes.pdb
